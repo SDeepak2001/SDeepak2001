@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I’m a passionate **Data Engineer** with a focus 
 - ☁️ Utilized **Apache Airflow** for seamless data pipeline operation.
 - 🔄 Automated deployment via **Jenkins CI/CD**, reducing update times by **50%**.
 
-**Amazon, Seattle** *(Jun 2023 – Dec 2023)*  
-*Data Engineer*  
+**Amazon, Seattle** *(May 2023 – Aug 2023)*  
+*Data Engineer Intern*  
 - 📈 Engineered scalable data pipelines using AWS technologies.
 - ⚡ Developed automation tools, reducing delivery times by **50%**.
 - 🚀 Optimized data pipelines, improving processing efficiency by **40%**.
@@ -49,12 +49,6 @@ Welcome to my GitHub profile! I’m a passionate **Data Engineer** with a focus 
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
 
-- **Frameworks:**  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-  ![Django](https://img.shields.io/badge/Django-092D40?style=flat&logo=django&logoColor=white) 
-
 - **Databases:**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
@@ -64,7 +58,7 @@ Welcome to my GitHub profile! I’m a passionate **Data Engineer** with a focus 
   ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white) 
   ![Snowflake](https://img.shields.io/badge/Snowflake-0C3E6C?style=flat&logo=snowflake&logoColor=white) 
   ![Talend](https://img.shields.io/badge/Talend-0095D5?style=flat&logo=talend&logoColor=white) 
-  ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?style=flat&logo=Informatica&logoColor=white) 
+  ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?style=flat&logo=informatica&logoColor=white) 
 
 - **Cloud Platforms:**  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
@@ -108,5 +102,3 @@ Thank you for visiting my profile! Feel free to connect with me via:
 Let’s build something amazing together!
 
 ---
-
-*“Innovation distinguishes between a leader and a follower.” – Steve Jobs*
