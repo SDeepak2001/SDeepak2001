@@ -16,12 +16,6 @@ Welcome to my GitHub profile! I’m a passionate **Data Engineer** with a focus 
 - ☁️ Utilized **Apache Airflow** for seamless data pipeline operation.
 - 🔄 Automated deployment via **Jenkins CI/CD**, reducing update times by **50%**.
 
-**Amazon, Seattle** *(May 2023 – Aug 2023)*  
-*Data Engineer Intern*  
-- 📈 Engineered scalable data pipelines using AWS technologies.
-- ⚡ Developed automation tools, reducing delivery times by **50%**.
-- 🚀 Optimized data pipelines, improving processing efficiency by **40%**.
-
 **FSG IT Solutions, India** *(Jan 2021 – Jul 2022)*  
 *Data Engineer*  
 - 📊 Built and optimized data pipelines with **AWS Glue** and Python.
